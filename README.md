@@ -9,7 +9,7 @@ Vous êtes deux contributeurs sur un projet commun et vous embitionnez de créer
 Albert crée le projet et le publie sur GitHub.  
 Bob le rejoint, apporte une modification, et Albert récupère le travail de Bob. À la fin, les deux voient le même historique sur GitHub.
 
-> [!IMPORTANT]  On est ensemble, on apprend ensemble
+> [!TIP]  On est ensemble, on apprend ensemble
 > Albert et Bob vont s'assister mutuellement dans le cadre de cette mise en pratique
 
 > Rôle A  - Albert  
@@ -116,8 +116,8 @@ git pull origin main # fetch + merge
 ls # metadata.md apparaît !
 ```
 
-> [!IMPORTANT] Point clé
-> faire fetch d'abord permet de voir ce qui arrive avant de l'intégrer. C'est une bonne pratique / habitude.
+> [!TIP] Point clé
+> Faire fetch d'abord permet de voir ce qui arrive avant de l'intégrer. C'est une bonne pratique / habitude.
 
 
 >Albert & Bob   
