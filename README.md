@@ -168,4 +168,4 @@ HEAD~1 HEAD -- docutil.md # Bob après pull
 
 # Aller plus loin
 
-Avec Github Pages et mkdocs ...
+Avec Github Pages et mkdocs ... si on le temps !
